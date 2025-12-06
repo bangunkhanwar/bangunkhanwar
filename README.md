@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hello! 👋 I'm Bangun 👨‍💻  
-_Engineered in hardware, elevated in software_
+_engineered in hardware, elevated in software_
 
 ---
 
